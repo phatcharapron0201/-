@@ -1,0 +1,23 @@
+{
+  "short_name": "ตำหนักอ๋อง",
+  "name": "ลิขิตรักตำหนักอ๋อง",
+  "description": "เกม MMORPG แนวจีนโบราณราชวงศ์ถัง ที่ผู้เล่นจะได้รับบทเป็นสาวงามที่ถูกคัดเลือกเข้าวังเพื่อเป็นพระชายา โดยต้องฝ่าฟันอุปสรรค ชิงอำนาจในวังหลังผ่านระบบเควส บทสนทนา และการสร้างความสัมพันธ์กับตัวละครสำคัญ",
+  "icons": [
+    {
+      "src": "https://i.pinimg.com/736x/c9/e6/84/c9e684351898287808f2eeb5aedb24b2.jpg",
+      "type": "image/jpeg",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://i.pinimg.com/736x/c9/e6/84/c9e684351898287808f2eeb5aedb24b2.jpg",
+      "type": "image/jpeg",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#450a0a",
+  "display": "standalone",
+  "theme_color": "#450a0a"
+}
